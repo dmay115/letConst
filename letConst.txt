@@ -1,0 +1,7 @@
+1: var will declair a variable but it can be redefined or redeclaired while let can only be redefined. let is block scoped while var is function scoped
+
+2: const is different from var in the same ways other than the fact that it can not be redefined
+
+3: let can be redefined while const can not
+
+4: hoisting is where the js script will scan through and create variables before running the actual code. These variables will be undefined until the code is actually ran.
